@@ -1,0 +1,23 @@
+# Secrets — never commit real API keys / WiFi credentials
+secrets.h
+config.h
+
+# Arduino / build artifacts
+build/
+*.bin
+*.elf
+*.hex
+*.map
+*.d
+*.o
+
+# macOS
+.DS_Store
+
+# Editor / IDE
+.vscode/
+*.swp
+*~
+
+# Claude Code local settings
+.claude/settings.local.json
