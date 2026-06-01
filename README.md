@@ -8,7 +8,7 @@ Pulls live telemetry from the EcoFlow IoT Open API over WiFi and lets you
 toggle AC output, set the charge limit, and adjust AC charge speed — all from
 a knob you can stick on a shelf.
 
-![status screen](docs/status.jpg) <!-- add a photo here -->
+![status screen](docs/status.jpg)
 
 ## Features
 
